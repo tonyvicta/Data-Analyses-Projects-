@@ -19,4 +19,7 @@ Data Warehousing Platforms: Snowflake and BigQuery
 
 ## AML Transactions Backlog 
 
+![AML Backlog project](./Russian-Invasion-Context)
+
+
 Led the data analysis for an AML transaction backlog project triggered by enhanced sanctions during the Russian invasion of Ukraine. Analysed over 20,000 flagged transactions to prioritise high-risk cases using SQL. Identified trends such as transactions linked to sanctioned entities and high-risk jurisdictions, enabling the AML team to streamline reviews and reduce false positives. Delivered actionable insights through interactive dashboards in Power BI, improving backlog clearance rates and ensuring compliance with global regulatory standards.
